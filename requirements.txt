@@ -1,0 +1,17 @@
+numpy
+scipy 
+scikit-learn 
+matplotlib 
+pandas 
+xlrd 
+jupyter 
+notebook 
+langdetect
+Flask 
+Flask-RESTful
+flask_cors
+ipykernel
+keras
+tensorflow
+gensim
+unidecode
